@@ -1,4 +1,3 @@
-Top of README
 Badges: Python version, License (MIT), "Models: ARIMA · Prophet"
 One-sentence pitch: what it does and who it's for
 Screenshot/GIF of forecast_comparison.png right under the title
